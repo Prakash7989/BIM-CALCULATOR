@@ -65,6 +65,12 @@ p{
     .box {
       margin: 10px;
     }
+    .gov{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 40px;
+    }
     .button{
         position: absolute;
         right: auto;
